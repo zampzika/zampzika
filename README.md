@@ -9,21 +9,7 @@
   <link rel="icon" href="logo-agrinho.png" type="image/png">
 </head>
 <body>
-  <header>
-    <div class="container">
-      <img src="logo-agrinho.png" alt="Logo Agrinho" class="logo">
-      <h1>Ciclo do Alimento</h1>
-      <nav>
-        <ul>
-          <li><a href="#plantio">Plantio</a></li>
-          <li><a href="#cultivo">Cultivo</a></li>
-          <li><a href="#colheita">Colheita</a></li>
-          <li><a href="#transporte">Transporte</a></li>
-          <li><a href="#consumo">Consumo</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+
 
   <section id="plantio" class="phase">
     <h2 class="phase-title">1. Plantio</h2>
