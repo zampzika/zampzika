@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Agrinho 2025">
-  <title>Ciclo do Alimento - Agrinho 2025</title>
+  Ciclo do Alimento - Agrinho 2025
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="logo-agrinho.png" type="image/png">
 </head>
