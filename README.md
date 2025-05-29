@@ -55,5 +55,4 @@
     <p>&copy; 2025 Agrinho - Todos os direitos reservados.</p>
   </footer>
 
-  <script src="scripts.js"></script>
 </body>
